@@ -1,0 +1,19 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio working files
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Logs and temp
+*.log
+*.tmp
+*.cache
+*.pdb
+
+# System files
+Thumbs.db
+.DS_Store
